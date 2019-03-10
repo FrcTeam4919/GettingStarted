@@ -22,6 +22,9 @@ This page is for tracking the location of important parts.
 
 Note: Victor SP is same as Talon SRX https://www.ctr-electronics.com/downloads/pdf/Victor-SP-Talon-SRX-Info-Sheet.pdf
 
+## Batteries
+
+
 ## Pneumatic Controls
 | Part Name or Description | Total  | On Comp Bot | On Franken Bot | On Demo Bot| Spares | Weight | List Price | How Acquired |
 | -------------------------- | ----- | ----------- | --------------- | --------- | -------- | -------- | -------- | -------- |
@@ -39,6 +42,8 @@ Note: Victor SP is same as Talon SRX https://www.ctr-electronics.com/downloads/p
 | bimba shifters |4|4|
 | phd 2 1/2 inch throw |1|
 | bimba large position|4| 4|
+
+
 
 ## cRIO Parts
 | Part Name or Description | Total  | On Comp Bot | On Franken Bot | On Demo Bot| Spares | Weight | List Price | How Acquired |
