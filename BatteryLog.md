@@ -5,7 +5,9 @@
 ### Practice/Testing/Inspection
 
 | Robo Rio |2|1|
+
 | Event | Battery # | Notes |
+
 |   |   |   |
 |   |   |   |
 |   |   |   |
