@@ -1,30 +1,30 @@
 
 # Battery Log
 
-## 2019
+## Year
 ### Practice/Testing/Inspection
 | Event | Battery # | Notes |
 | :---: | :---: | :---|
-|  Practice 2 | 5  |   |
-| Practice 13  |  5 |   |
-| Test Area  |  4 | Suspect bad  |
-| Inspection  |  3 |   |
+|  Practice  |  |   |
+| Practice  |   |   |
+| Test Area  |   | Suspect bad  |
+| Inspection  |   |   |
 
 
 ### Qualification Rounds
 | Qual Round | Battery # | Notes |
 | :---: | :---: | :---|
-|  2 | 5  | Issue with Robot Connectivity; replaced connector  |
-| 12 | 1  | Brown out during match; Positive terminal was bent over and had loose nut which was replaced with a nylock; brown out not battery/electrical issue, traced to wheels binding|
-| 18 | 3  | No Issues  |
-| 26 | 6  | No Issues  |
-| 36 | 5  | No Issues  |
-| 46 | 3  | No Issues  |
-| 55 | 2 or 5 | No Issues  |
-| 66 | 3  | No Issues  |
-| 67 | 5  | No Issues  |
-| 75 | 2  | No Issues  |
-| 79 | 1  | No Issues  |
+|   |   | Issue with Robot Connectivity; replaced connector  |
+|  |   | Brown out during match; Positive terminal was bent over and had loose nut which was replaced with a nylock; brown out not battery/electrical issue, traced to wheels binding|
+|  |   | No Issues  |
+|  |   | No Issues  |
+| |   | No Issues  |
+|  |   | No Issues  |
+|  |  | No Issues  |
+|  |   | No Issues  |
+|  |   | No Issues  |
+|  |   | No Issues  |
+|  |   | No Issues  |
 
 ### Final Notes for Season
 * Battery 4 marked bad
