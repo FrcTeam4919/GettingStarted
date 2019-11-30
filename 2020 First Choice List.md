@@ -13,7 +13,11 @@
 | fc-RU-3961 | "1/2"" THIN SHAFT COLLAR |  RED" | 5 |  | 
 | fc-RU-4090 | "1/2"" THIN SHAFT COLLAR |  Gold" | 5 |  | 
 | fc-RU-5264 | "3/8"" X 3/8"" BEAM COUPLING" | 20 |  | 
-| fc-RA-1983 | LIMIT SWITCH KIT | 100 | 2 | 
+| fc-RA-1983 | LIMIT SWITCH KIT | 100 | 2 |  |
 | fc-3M-5738 | 2-Position & 4-Position Link Connectors | 10 | 2 | VRM or PCM  RoboRio 20A or less circuits |
-| fc-TI-1665 | LaunchPad Evaluation Kit | 10 | 1 | 
-| SB50-fr | SB50 Connector Kit | 5 | 5 | 
+| fc-TI-1665 | LaunchPad Evaluation Kit | 10 | 1 |  |
+| SB50-fr | SB50 Connector Kit | 5 | 6 | Replace connectors on chrages for battery cart |
+| | Rotary Encoder Kit (R86457, 294122-1, RE321826, R111692) |   20 |  2| |
+| | Jaw Coupling Spider (JD16/25-92Y) | 5 |  3 |tried to get last year I believe |
+| | 1/2" Jaw Coupling Hub (JC16-8-A) |  5 | 4|   tried to get last year I believe |
+| | DualVee Wheels, Size 2 (sleeve of 9, W2, W2X, or W2SSS)  |  20 | 1 or 2|  could be of use in elevator mechanism |
