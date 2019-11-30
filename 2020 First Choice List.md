@@ -14,6 +14,6 @@
 | fc-RU-4090 | "1/2"" THIN SHAFT COLLAR |  Gold" | 5 |  | 
 | fc-RU-5264 | "3/8"" X 3/8"" BEAM COUPLING" | 20 |  | 
 | fc-RA-1983 | LIMIT SWITCH KIT | 100 | 2 | 
-| fc-3M-5738 | 2-Position & 4-Position Link Connectors | 10 | 2 | "Use for power on compressor |  VRM or PCM |  RoboRio 20A or less circuits"
+| fc-3M-5738 | 2-Position & 4-Position Link Connectors | 10 | 2 | VRM or PCM  RoboRio 20A or less circuits |
 | fc-TI-1665 | LaunchPad Evaluation Kit | 10 | 1 | 
 | SB50-fr | SB50 Connector Kit | 5 | 5 | 
