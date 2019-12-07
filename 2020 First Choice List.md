@@ -1,3 +1,4 @@
+2020 First Choice Round 1
 | Part # | Item Description | First Credits | Desired Quantity | Notes |
 | --- | --- | --- | --- | --- |
 | fc-am-0019 | S35-12H 500 KEY HUB STEEL SPROCKET | 5 | 4 | 
@@ -21,3 +22,32 @@
 | | Jaw Coupling Spider (JD16/25-92Y) | 5 |  3 |tried to get last year I believe |
 | | 1/2" Jaw Coupling Hub (JC16-8-A) |  5 | 4|   tried to get last year I believe |
 | | DualVee Wheels, Size 2 (sleeve of 9, W2, W2X, or W2SSS)  |  20 | 1 or 2|  could be of use in elevator mechanism |
+
+
+| fc-AD-3281||IMU MXP Breakout Board (ADIS16448BRD)||100||1||100
+|-
+| fc-RA-1983||Limit Switch Kit (802K-MSRS11E, 889N-F5AE- 6F)||100||1||100
+|-
+| fc-FT-3261||Pneumatic Solenoid, Double Valve Kit 2017 (566654, 80422548, 183740)||50||1||50
+|-
+| fc-FT-3261||Pneumatic Solenoid, Double Valve Kit 2017 (566654, 80422548, 183740)||50||1||50
+|-
+| fc-MI-7104||Lead Screw (MTSBRK12)||50||1||50
+|-
+| fc-BW- 8497||DualVee Wheels, Size 2 (sleeve of 9, W2, W2X, or W2SSS)||20||2||40
+|-
+| fc-am- 3461a||NeveRest Orbital 3.7 Gearmotor w/ PP15 (am- 3461a)||20||2||40
+|-
+| fc-RU-0875||3/8" x 3/8" Rigid Coupling (CLX-6-6-A)||20||2||40
+|-
+| fc-AP-5133||SB50 Connector Kit (SB50-FR)||5||6||30
+|-
+| fc-3M-5738||2-Position & 4-Position Link Connectors, Qty 10 each with 6ft Cable (JE150416673,JE150279733,JE150399689)||10||2||20
+|-
+| fc-am-0019||S35-12H 500 Key Hub Steel Sprocket (am-0019)||5||4||20
+|-
+| fc-RU-2595||Jaw Coupling Spider (JD16/25-92Y)||5||3||15
+|-
+| fc-TI-1665||LaunchPad Evaluation Kit (MSP- EXP430F5529LP)||10||1||10
+|-
+| fc-am-0216||S35-22L Aluminum Sprocket, Large Bore (am- 0216)||5||2||10
