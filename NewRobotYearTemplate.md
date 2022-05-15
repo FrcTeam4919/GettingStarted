@@ -17,13 +17,13 @@ Also describe how challenging to implmenet: Green - easy, black - medium, red - 
 * Wheeled (2, 3, or 4 per side), tank track, or something else. 
 * The drive train is one of first items that has to be fabricated to determine other items (functions) and how they mount and space.
 
-### Alternative 1
+## Alternative 1
 
-### Alternative 2
+## Alternative 2
 
-#### Alternative 3
+## Alternative 3
 
-#### Alternative 4
+## Alternative 4
 
 # Final Design
 
