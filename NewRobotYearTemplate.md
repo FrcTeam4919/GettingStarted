@@ -43,12 +43,15 @@
 
 # Mechanical
 ## Drive base dimension and welding plan
-## Each Game elemment dimension and welding or assembly plan
-## 
-## Identify raw materials needed, estimate weight
+## Game Element 1 dimension and welding or assembly plan
+## Game Element 2 dimension and welding or assembly plan
+## Game Element ... dimension and welding or assembly plan
+* Identify raw materials needed, estimate weight
 
 # Control Systems
-## Control Signals Map
+## Control Signals and Power Mapping Table
+* RoboRio interfaces to Motocontrollers and sensors
+* Power Distribution Panel position 
 
 ## Signals Schematic
 
@@ -56,5 +59,5 @@
 
 ## Pneumatic Schematic
 
-# Robot Name
-Pictures!
+# Robot Ready for Competition 
+* Robot Name, BOM, and Pictures!
