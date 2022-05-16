@@ -1,5 +1,3 @@
-# Welcome to the wiki!
-
 # Game Analysis
 * Include Game Title, Notes on kickoff etc.
 
