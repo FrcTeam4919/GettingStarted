@@ -3,7 +3,7 @@
 
 ## Game Decomposition - Define Requirements
 * Describe Game Strategies - offensive, defensive
-* Describe Strategies for scoring points and reanking points
+* Describe Strategies for scoring points and ranking points
 * Rank strategy options/choices - how Team Ronin wants to play the game
 
 ## Function Breakdown - Define Use Cases
