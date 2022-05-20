@@ -32,9 +32,9 @@
 ## Scale Drawing Front View
 ## Scale Drawing Side View
 ## Scale Drawing Top View
-## Game Elemnent 1 Design
-## Game Elemnent 2 Design
-## Game Elemnent ... Design
+## Game Element 1 Design
+## Game Element 2 Design
+## Game Element ... Design
 
 # Operator Interface
 ## Mapping of Functions to operator Console buttons and Joystick
