@@ -16,6 +16,8 @@
 * The drive train is one of first items that has to be fabricated to determine other items (functions) and how they mount and space.
 
 ## Alternative 1
+* include drawings of top side and front views.
+* Describe the drive, game elements and how they work in the use cases to meet the requirements.
 
 ## Alternative 2
 
@@ -35,7 +37,7 @@
 ## Game Elemnent ... Design
 
 # Operator Interface
-## Maping of Functions to operator Console buttons and Joystick
+## Mapping of Functions to operator Console buttons and Joystick
 
 # Software
 ## Subsystems
@@ -49,7 +51,7 @@
 * Identify raw materials needed, estimate weight
 
 # Control Systems
-## Control Signals and Power Mapping Table
+## Control Signals and Power Map Table
 * RoboRio interfaces to Motocontrollers and sensors
 * Power Distribution Panel position 
 
